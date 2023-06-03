@@ -3,10 +3,11 @@
 Este código é uma página HTML que apresenta um sorveteria fictícia chamada "Space Cream".
 
 <p align="center"> 
-<img src="https://user-images.githubusercontent.com/113460644/234695778-07a00975-0405-4062-a742-39a06d8455df.png" width="800rem">
+<img src="https://github.com/KauaSanttosSouza/space-cream/assets/113460644/20eb9745-bca1-4aee-b51e-12e2d6e770f2" width="800rem">
 </p>
 
 ##
+
 
 <p>É possível observar que a página é composta por uma estrutura básica de HTML, com tags como < html >, < head >, < body >, além de outras que importam fontes externas e o arquivo de estilo CSS.</p>
 
